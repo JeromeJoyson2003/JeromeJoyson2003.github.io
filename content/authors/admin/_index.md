@@ -45,55 +45,33 @@ education:
     date_start: 2021-11-15
     date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    CGPA : 8.3
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: SSLC
+    institution: United Indian School
+    date_start: 2018-04-01
+    date_end: 2019-03-31
     summary: |
-      GPA: 3.8/4.0
+      Percentage : 84
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: HSLC
+    institution: United Indian School
+    date_start: 2020-04-01
+    date_end: 2021-03-31
     summary: |
-      GPA: 3.4/4.0
+      Percentage : 92.8
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Student
+    company_name: Hexcent Connect
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2024-07-01
+    date_end: 2024-07-15
+    summary: 
+    Learned to implement website development using HTML, CSS, Django.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -131,11 +109,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Malayalam
+    percent: 100
+  - name: Hindi
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +147,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently B.Tech student at RSET where I am studying Cloud Computing.
