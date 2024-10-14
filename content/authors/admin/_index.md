@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jerome Joyson
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jerome Joyson
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jerome
+last_name: Joyson
 
 # Status emoji
 status:
@@ -17,18 +17,18 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: RSET
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jeromejoyson150@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,15 +40,15 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Tech in Artificial Intelligence & Data Science
+    institution: RSET
+    date_start: 2021-11-15
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
